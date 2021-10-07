@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun Umathanu ( @arjunkayalmoni )
 - 👀 I’m interested in Full Stack Development and Automation.
-- 🌱 I’m currently learning Vue.js, FastAPI and react-query
+- 🌱 I’m currently learning Vue.js, FastAPI, react-query, SASS, etc.,
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 How to reach me? Tag me @arjunkayalmoni or Email me arjun.umathanu@gmail.com
 
