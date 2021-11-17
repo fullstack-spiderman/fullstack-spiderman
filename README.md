@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/arjunkayalmoni">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunkayalmoni&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunkayalmoni&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F7AF00&bg_color=081E3C" alt="Braydon's GitHub Stats" />
 </a>
 
 <a href="https://github.com/arjunkayalmoni">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=55585A&bg_color=24292F" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=F7AF00&bg_color=24292F" />
 </a>
