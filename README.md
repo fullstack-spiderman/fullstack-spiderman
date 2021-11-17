@@ -6,7 +6,7 @@
 
 <!---
 arjunkayalmoni/arjunkayalmoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. # 24292F
 --->
 
 <a href="https://github.com/arjunkayalmoni">
@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/arjunkayalmoni">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=F7AF00&bg_color=24292F" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=F7AF00&bg_color=081E3C" />
 </a>
