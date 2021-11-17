@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Arjun Umathanu ( @arjunkayalmoni ). My Passion, Work and Hobby are all selfsame.
-- 👀 I’m interested in Full Stack Development and Automation.
-- 🌱 I’m currently learning Vue.js, FastAPI, react-query, SASS/SCSS, etc.,
-- 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
-- 📫 How to reach me? Tag me @arjunkayalmoni or Email me arjun.umathanu@gmail.com
+- 👋  Hi, I’m Arjun Umathanu ( @arjunkayalmoni ). My Passion, Work and Hobby are all selfsame.
+- 👀  I’m interested in Full Stack Development and Automation.
+- 🌱  I’m currently learning Vue.js, FastAPI, react-query, SASS/SCSS, etc.,
+- 💞️  I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
+- 📫  How to reach me? Tag me @arjunkayalmoni or Email me arjun.umathanu@gmail.com
 
 <!---
 arjunkayalmoni/arjunkayalmoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
