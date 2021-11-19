@@ -11,7 +11,13 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
 --->
 
 <a href="https://github.com/arjunkayalmoni">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunkayalmoni&show_icons=true&line_height=27&count_private=true&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's GitHub Stats" />
+<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunkayalmoni&show_icons=true&line_height=27&count_private=true&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's GitHub Stats" />
+</a>
+
+<a href="https://github.com/arjunkayalmoni">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's Most Used Language Stats" />
+</a> -->
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunkayalmoni&theme=react&show_icons=true&line_height=27&count_private=true&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's GitHub Stats" />
 </a>
 
 <a href="https://github.com/arjunkayalmoni">
@@ -25,6 +31,12 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
 <br />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arjunkayalmoni&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
 
+<!-- 
+<details>
+  
+  [![Arjun KayalMoni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arjunkayalmoni&theme=react)](https://github.com/arjunkayalmoni/github-readme-stats)
+  
+</details> -->
 <!-- -->
 <br> <br>
 ## 🎵 Spotify status
@@ -55,3 +67,5 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
   
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunkayalmoni.arjunkayalmoni)
+  
+
