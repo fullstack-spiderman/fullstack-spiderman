@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
 </a>
 
 <a href="https://github.com/arjunkayalmoni">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's Most Used Language Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkayalmoni&theme=react&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's Most Used Language Stats" />
 </a>
 
 <br> <br>
@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
 
 <br />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arjunkayalmoni&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunkayalmoni&theme=react&repo=arjunkayalmoni&show_owner=true)](https://github.com/arjunkayalmoni/arjunkayalmoni) -->
+
 
 <!-- 
 <details>
