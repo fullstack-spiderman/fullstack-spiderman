@@ -1,3 +1,14 @@
+<h3 align="center">
+  Welcome to Arjun KayalMoni's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F72470&size=14&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Developer+with+5%2B+years+expereince+in+development+and+overall+12%2B+years+of+experience+in+IT.;I+speak+Tamil+%26+English+but+I+write+Python%2C+JavaScript+%26+Go;My+favorites+are+React+and+FastAPI)](https://git.io/typing-svg)
+  
+</p>
+
 - 👋 &nbsp; Hi, I’m Arjun Umathanu ( @arjunkayalmoni ). My Passion, Work and Hobby are all selfsame.
 - 👀 &nbsp; I’m interested in Full Stack Development and Automation.
 - 🌱 &nbsp; I’m currently learning Vue.js v3, react-query v3, MUI v5, react-router v6, SASS/SCSS, pytest, Angular v12, TypeScript etc.,
