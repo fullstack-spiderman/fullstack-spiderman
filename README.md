@@ -1,6 +1,8 @@
-<h3 align="center">
-  Welcome to Arjun KayalMoni's profile!
+<h3 align="center" color="#61dbfb">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Arjun KayalMoni's profile!
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100>
+  
 </h3>
 
 <p align="center">
