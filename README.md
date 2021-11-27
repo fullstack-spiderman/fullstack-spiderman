@@ -7,7 +7,7 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F72470&size=14&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Developer+with+5%2B+years+expereince+in+development+and+overall+12%2B+years+of+experience+in+IT.;I+speak+Tamil%2C+Malayalam+%26+English+but+I+write+Python%2C+JavaScript+%26+Go.;My+favorites+are+React+and+FastAPI+stacks..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F72470&size=14&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Developer+with+5%2B+years++of+experience+in+development+and+overall+12%2B+years+of+experience+in+IT.;I+speak+Tamil%2C+Malayalam+%26+English+but+I+write+Python%2C+JavaScript+%26+Go.;My+favorites+are+React+and+FastAPI+stacks..)](https://git.io/typing-svg)
   
 </p>
 
