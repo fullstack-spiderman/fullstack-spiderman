@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-spiderman&theme=react&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's Most Used Language Stats" />
 </a>
 
-## 🏆 Github streaks
+## 🏆 GitHub Streaks
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fullstack-spiderman&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
 
