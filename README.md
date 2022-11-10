@@ -11,15 +11,17 @@
 
 </p>
 
-- 👋 &nbsp; Hi, I’m Arjun Umathanu ( @fullstack-spiderman ). My Passion, Work and Hobby are all selfsame.
-- 👀 &nbsp; I’m interested in Full Stack Development and Automation.
-- 🌱 &nbsp; I’m currently learning Jest, React Testing Library and TypeScript.
-- 💞️ &nbsp; I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
-- 📫 &nbsp; How to reach me? Tag me @fullstack-spiderman or contact me in twitter
-- 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready soon...
+- 👋 Hi, I’m Arjun Umathanu ( @fullstack-spiderman ). My Passion, Work and Hobby are all selfsame.
+- 👀 I’m interested in Full Stack Development and Automation.
+- 🌱 I’m currently learning 
+  - 🧪 🏃 Jest, 
+  - 🧪 🥼 React Testing Library and 
+  - 🦾 ⌨️  TypeScript.
+- 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
+- 📫 How to reach me? Tag me @fullstack-spiderman or contact me in twitter
+- 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready early 2023.
 
-
-## :computer: My Tech Stack
+## 💻 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -72,6 +74,7 @@
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
+## 💥 GitHub Statistics
 <!---
 fullstack-spiderman/fullstack-spiderman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. # 24292F , 081E3C
@@ -91,11 +94,8 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-spiderman&theme=react&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun KayalMoni's Most Used Language Stats" />
 </a>
 
-<br> <br>
+## 🏆 Github streaks
 
-## :trophy: Github streaks
-
-<br />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fullstack-spiderman&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fullstack-spiderman&theme=react&repo=fullstack-spiderman&show_owner=true)](https://github.com/fullstack-spiderman/fullstack-spiderman) -->
@@ -108,9 +108,7 @@ You can click the Preview link to take a look at your changes. # 24292F , 081E3C
 
 </details> -->
 <!-- -->
-<br> <br>
 ## 🎵 Spotify status
-<br>
 <table width="100%">
   <tr>
   <td width="50%">
