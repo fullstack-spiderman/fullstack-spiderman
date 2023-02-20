@@ -14,9 +14,11 @@
 - 👋 Hi, I’m Arjun Umathanu ( @fullstack-spiderman ). My Passion, Work and Hobby are all selfsame.
 - 👀 I’m interested in Full Stack Development and Automation.
 - 🌱 I’m currently learning 
-  - 🧪 🏃 Jest, 
-  - 🧪 🥼 React Testing Library and 
-  - 🦾 ⌨️  TypeScript.
+  - ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
+  - ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+  - ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 How to reach me? Tag me @fullstack-spiderman or contact me in twitter
 - 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready early 2023.
