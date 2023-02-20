@@ -19,6 +19,7 @@
   - ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
+  - ![Selenium](https://img.shields.io/badge/-selenium-A9A9A9?logo=selenium&style=for-the-badge)
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 How to reach me? Tag me @fullstack-spiderman or contact me in twitter
 - 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready early 2023.
@@ -68,13 +69,17 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Poetry](https://img.shields.io/badge/poetry-000?style=for-the-badge&logo=poetry&logoColor=#0072E5)
+![Create-React-App](https://img.shields.io/badge/-CRA-303846?style=for-the-badge&logo=create-react-app&logoColor=297D69)
+![Vite](https://img.shields.io/badge/-VITE-1E1E20?style=for-the-badge&logo=vite)
 ![NPM](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=#0072E5)
 ![Yarn](https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=yarn&logoColor=#0072E5)
+![PNPM](https://img.shields.io/badge/-PNPM-242526?style=for-the-badge&logo=pnpm)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/-prettier-1A2B34?logo=prettier&style=for-the-badge)
 ![: my[py]](https://img.shields.io/badge/-mypy-2A5ADF?logo=python&style=for-the-badge&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VSCode-2C2C31?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ## 💥 GitHub Statistics
 <!---
