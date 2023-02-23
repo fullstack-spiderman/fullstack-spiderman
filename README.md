@@ -17,6 +17,7 @@
   - ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
   - ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
   - ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
+  - ![Cypress](https://img.shields.io/badge/Cypress-EFFCF8?style=for-the-badge&logo=Cypress&logoColor=black)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
   - ![Selenium](https://img.shields.io/badge/-selenium-A9A9A9?logo=selenium&style=for-the-badge)
@@ -52,6 +53,8 @@
 ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-EFFCF8?style=for-the-badge&logo=Cypress&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-A9A9A9?logo=selenium&style=for-the-badge)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=#3371e3)
 ![Helm](https://img.shields.io/badge/helm-091C84?style=for-the-badge&logo=helm&logoColor=blue)
