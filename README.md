@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-26a699?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -38,6 +37,7 @@
 ![Pydantic](https://img.shields.io/badge/pydantic-ed5487?style=for-the-badge&logo=python&logoColor=white)
 ![SQLModel](https://img.shields.io/badge/sqlmodel-e576c2?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-770000?logo=python&style=for-the-badge&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&&logo=node.js&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![React Query](https://img.shields.io/badge/ReactQuery-3e4349?style=for-the-badge&logo=reactquery&logoColor=#f59e0b)
