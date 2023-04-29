@@ -19,7 +19,6 @@
   - ![Cypress](https://img.shields.io/badge/Cypress-EFFCF8?style=for-the-badge&logo=Cypress&logoColor=black)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
-  - ![Selenium](https://img.shields.io/badge/-selenium-A9A9A9?logo=selenium&style=for-the-badge)
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 How to reach me? Tag me @fullstack-spiderman or contact me in twitter
 - 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready early 2023.
