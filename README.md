@@ -71,6 +71,7 @@
 ![Poetry](https://img.shields.io/badge/poetry-000?style=for-the-badge&logo=poetry&logoColor=#0072E5)
 ![Create-React-App](https://img.shields.io/badge/-CRA-303846?style=for-the-badge&logo=create-react-app&logoColor=297D69)
 ![Vite](https://img.shields.io/badge/-VITE-1E1E20?style=for-the-badge&logo=vite)
+
 ![NPM](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=#0072E5)
 ![Yarn](https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=yarn&logoColor=#0072E5)
 ![PNPM](https://img.shields.io/badge/-PNPM-242526?style=for-the-badge&logo=pnpm)
