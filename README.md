@@ -48,6 +48,7 @@
 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Cypress](https://img.shields.io/badge/Cypress-EFFCF8?style=for-the-badge&logo=Cypress&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-1e1e20?style=for-the-badge&logo=Vitest)
+![MSW](https://img.shields.io/badge/MSW-171717?style=for-the-badge&logo=mock-service-worker)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=#3371e3)
 ![Helm](https://img.shields.io/badge/helm-091C84?style=for-the-badge&logo=helm&logoColor=blue)
