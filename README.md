@@ -13,10 +13,15 @@
 
 - 👋 Hi, I’m Arjun Umathanu ( @fullstack-spiderman ). My Passion, Work and Hobby are all selfsame.
 - 👀 I’m interested in Full Stack Development, Testing (Unit, Integration, REST API, Component and End-To-End/E2E testing) and Automation.
-- 🌱 I’m currently learning ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-1e1e20?style=for-the-badge&logo=Vitest) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue-1A1A1A?style=for-the-badge&logo=vue.js) ![Django](https://img.shields.io/badge/-django-0C4B33?logo=django&style=for-the-badge)
+- 🌱 I’m currently learning
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/-Vue-1A1A1A?style=for-the-badge&logo=vue.js)
+  - ![Dart](https://img.shields.io/badge/-dart-1B2834?style=for-the-badge&logo=dart&logoColor=2E75D8)
+  - ![Flutter](https://img.shields.io/badge/-flutter-98A7F2?style=for-the-badge&logo=flutter&logoColor=2E75D8)
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me? Tag me @fullstack-spiderman or contact me in twitter
-- 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready early 2024.
+- 👷🏽‍♂️ Also, I'm developing & setting up my tech blog ﹣ will be ready in 2024-25.
 
 ## 💻 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -44,10 +49,10 @@
 ![Jinja](https://img.shields.io/badge/-jinja-AA0000?logo=jinja&style=for-the-badge)
 
 ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
+![Vitest](https://img.shields.io/badge/Vitest-1e1e20?style=for-the-badge&logo=Vitest)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Cypress](https://img.shields.io/badge/Cypress-EFFCF8?style=for-the-badge&logo=Cypress&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-1e1e20?style=for-the-badge&logo=Vitest)
 ![MSW](https://img.shields.io/badge/MSW-171717?style=for-the-badge&logo=mock-service-worker)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=#3371e3)
